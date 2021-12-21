@@ -14,8 +14,12 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("Hello world")
     print_hi('PyCharm by dev')
+<<<<<<< HEAD
     print_hi('PyCharm by bugfix')
     print("Baitileuov Gani in dev")
     print("FUCK FUCK FUCK in dev")
+=======
+    print("Baitileuov Gani in dev")
+>>>>>>> add FIO in main.py By dev
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

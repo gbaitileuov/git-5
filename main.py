@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("Hello world")
     print_hi('PyCharm by dev')
+    print_hi('PyCharm by bugfix')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

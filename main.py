@@ -11,6 +11,8 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
+    print_hi('PyCharm')
+    print("Hello world")
     print_hi('PyCharm by dev')
     print("Baitileuov Gani in dev")
 

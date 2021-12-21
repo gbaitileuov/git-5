@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print("Hello world")
     print_hi('PyCharm by dev')
     print("Baitileuov Gani in dev")
+    print("FUCK FUCK FUCK in dev")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
